@@ -8,7 +8,7 @@ metadata:
   namespace: argocd
 data:
   #admin.enabled: "true"
-  accounts.sdiaz: apiKey, login
+  accounts.afranco: apiKey, login
 
 ---
 apiVersion: v1
